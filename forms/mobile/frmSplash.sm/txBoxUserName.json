@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "12.20%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "seca25de433d4c389804214489abbbba",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "17.04%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "83.62%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "48%"
+    },
+    "channel": "mobile",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "focusskin": "s9da82e491a04ca9a879222d46e35ed2",
+    "id": "txBoxUserName",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ac09b968ada8421b9029873f69644381",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxFormLogin",
+    "pf": "frmSplash",
+    "placeholderskin": "sb4d16fe686a4ea7af41f4e01b320920",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

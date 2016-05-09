@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s14678353a224361af97c7af0f9b8a03",
+    "_text_": "Button",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sd5884d4ad334375b2d50f9576cb0f9e",
+    "id": "Button05e909f4ea0114a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c910ecc5b31a4d2b909d7243c98e6abb",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_ba044b3cff3b4295b4f0388b03c165bf",
+    "parent": "flxButtonTargetValidThree",
+    "pf": "frmStockMarket",
+    "wType": "Button",
+    "zindex": 1
+}

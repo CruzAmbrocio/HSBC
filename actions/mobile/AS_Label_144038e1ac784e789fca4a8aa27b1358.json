@@ -1,0 +1,23 @@
+{
+    "AS_Label_144038e1ac784e789fca4a8aa27b1358": {
+        "id": "AS_Label_144038e1ac784e789fca4a8aa27b1358",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__4624435dc44342a281f07e82d02eeec9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var activeU=\"flxUnderLine01\";\nvar hideU1=\"flxUnderLine02\";\nvar hideU2=\"flxUnderLine03\";\nchangeActiveHeader(activeU,hideU1, hideU2);\n//frmStockMarket.flxSliderStock.setContentOffset({x:\"0%\",y:\"0\"},true);\ntrancitionIndicator(\"0%\", \"flxMasterScrollStock\");\ntrancitionIndicator(\"100%\", \"flxContainerTopGainers\");\ntrancitionIndicator(\"100%\", \"flxContainerDiscover\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

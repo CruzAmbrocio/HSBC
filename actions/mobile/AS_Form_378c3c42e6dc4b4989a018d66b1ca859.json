@@ -1,0 +1,13 @@
+{
+    "AS_Form_378c3c42e6dc4b4989a018d66b1ca859": {
+        "id": "AS_Form_378c3c42e6dc4b4989a018d66b1ca859",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "ADD_SNIPPET__c49d3a13f4694ebfb8bec2956f8f3d34",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmSplash.flxPrincipalSplash.imgFirstIconSplash.opacity = 1;\nfrmSplash.flxPrincipalSplash.imgSecondIconSplash.opacity = 0;\nfrmSplash.flxPrincipalSplash.flxFormLogin.opacity = 0;\nfrmSplash.flxPrincipalSplash.flxContainerSkip.opacity = 0;\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sa31b51266c1436b8c38e74f894fc56d",
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "children": [
+        "Image0de2cdfa8366446",
+        "Label0d9c19945a8724f"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "flxBtnFootProducts",
+    "info": null,
+    "isvisible": true,
+    "kuid": "eb9e91ef3e7c43b89eaa3e66b51efa05",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "ontouchstart": "AS_FlexContainer_7b9a2a712b554b6f92f7f4c18e011077",
+    "orientation": 6,
+    "parent": "flxContainerFooter",
+    "percent": true,
+    "pf": "frmStockMarket",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

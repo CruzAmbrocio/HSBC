@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sd53b5a13e7c41f5a9e00b3e35c90a04",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "children": [
+        "imgIconClose"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "focusskin": "s985bb2a7c394cd0aab59aa58935055d",
+    "id": "flxButtonTargetCloseOne",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6e8c9af7b3494f02a329bacffe9a73d1",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "ontouchstart": "AS_FlexContainer_9425625305cc465dac0021a2110b40e4",
+    "orientation": 6,
+    "parent": "flxContainerButtons",
+    "percent": true,
+    "pf": "Form0957388f1955a40",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

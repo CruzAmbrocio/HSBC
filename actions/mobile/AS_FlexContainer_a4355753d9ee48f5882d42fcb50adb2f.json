@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_a4355753d9ee48f5882d42fcb50adb2f": {
+        "id": "AS_FlexContainer_a4355753d9ee48f5882d42fcb50adb2f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onTouchStart_e3194d577895441fae51c1f482f3e3b4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "moveStockBoxes(1,5);",
+            "callbackType": null
+        }]
+    }
+}

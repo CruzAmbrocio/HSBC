@@ -1,0 +1,151 @@
+{
+    "APPLICATION_THEME": "default",
+    "appaddrkey": "",
+    "appidkey": "Project0c3742f7fe",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "b6e44ca6a75a4c48beaa9071032e733e",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "fb4fd72192494caf89fcd75ac13bf204",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "2715f9ac4b3c421ab850d356c76a6d47",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "dc16cdc99b2e4da0b0a873dff0d539ea",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "a2f6b6ab8f8d4964a8809ade64bf7e85",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "cc92b9e7f17740a9896f26dd81c874b0",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "fe5454124f104ed59ef8cfd346f7a201",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "4420580f1a8c49ce82ee98e4f1669c8d",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "kuid": "f600ad130a7142a68c3c392da6a25caf",
+                    "title": "Item 1"
+                },
+                {
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "kuid": "7b16e2d019f04e599de2e36275649044",
+                    "title": "Item 2"
+                },
+                {
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "kuid": "7aa79dbab3e84a2993bef61567417dc0",
+                    "title": "Item 3"
+                },
+                {
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "kuid": "8f0208501eee418f8d2235bbca16f161",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "appnamekey": "hellsjasdflkasdf",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "createdVizVersion": "2.5.2.5",
+    "createdgaversion": "6.5.0",
+    "currentgaversion": "7.0.0",
+    "defaulttheme": "defaultTheme",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "konyVizVersion": "7.0.0",
+    "mastersProperties": {
+        "masterVersion": "1.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "project.type": "js",
+    "project_version": "sprint22",
+    "startupformkey": "frmSplash",
+    "vendornamekey": "KonyLabs",
+    "winmobileguidkey": "",
+    "accountCloudGuid": "9ab93c29-adbb-4cd7-abf6-70e004219555",
+    "projectCloudGuid": "5cc90abb-2f33-4ef8-a52a-b5748d90492b",
+    "prototype": {
+        "createdOn": "2016-04-25T20:34:06.918Z",
+        "createdById": "722f78c0-6be6-48c3-8cb3-788d8cb7ab68",
+        "createdBy": "Cruz Ambrocio",
+        "shareGuid": "SJY1M",
+        "resourceId": "85e0b1ce-a736-425c-9eea-0477ff719954"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "123.53%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-1.44%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f42d91f7424052b344c0cba135d266",
+    "_src_": "other_clean_g.png",
+    "_top_": {
+        "type": "string",
+        "value": "-11.71%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "101.52%"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmInfoNews",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "Image00910b7c08e4447",
+    "imagescalemode": 1,
+    "info": null,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "3b6a0c2b57f3468fb5a788eb6e1754c8",
+    "name": "kony.ui.Image2",
+    "parent": "flxContainerGraphics",
+    "pf": "frmInfoNews",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

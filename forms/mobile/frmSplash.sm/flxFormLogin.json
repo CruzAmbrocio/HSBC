@@ -1,0 +1,68 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "231dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sbabfb9eac5c4ba99f41b32f3f2086ac",
+    "_top_": {
+        "type": "string",
+        "value": "44.67%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "76.56%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "children": [
+        "btnLogin",
+        "lblTitleUseName",
+        "lblTitlePassword",
+        "lblTitleRemember",
+        "flxIconSelected",
+        "txBoxUserName",
+        "txtBoxPassword",
+        "FlexContainer0be924b2086cf46",
+        "CopyFlexContainer06039cc4a5d0f4d"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enabled": false,
+    "enablescrolling": true,
+    "id": "flxFormLogin",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b018295cca2f4ca393d55c1789e168da",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "orientation": 6,
+    "parent": "flxPrincipalSplash",
+    "percent": true,
+    "pf": "frmSplash",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

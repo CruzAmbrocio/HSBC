@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_f0ed4a123a6e4d3fa591b52b2f91bc34": {
+        "id": "AS_FlexContainer_f0ed4a123a6e4d3fa591b52b2f91bc34",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__881f2645ff6d40e48088ca9ee571f3b3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var active=\"flxBtnFootRatesActive\";\n\nvar hide=\"flxBtnFootRates\";\n\nvar hide1=\"flxBtnFootStockActive\";\nvar hide2=\"flxBtnFootProductsActive\";\nvar hide3=\"flxBtnFootFindATMActive\";\nvar hide4=\"flxBtnFootMoreActive\";\n\nvar show1=\"flxBtnFootStock\";\nvar show2=\"flxBtnFootProducts\";\nvar show3=\"flxBtnFootFindATM\";\nvar show4=\"flxBtnFootMore\";\n\nchangeActive(active,hide, hide1, hide2, hide3, hide4, show1, show2, show3, show4);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

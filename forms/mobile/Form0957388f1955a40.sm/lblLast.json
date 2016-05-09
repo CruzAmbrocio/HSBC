@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa10efa7f9bd4ae2966c1c572b23d45a",
+    "_text_": "Apple Inc. is an American multinational technology company headquarted in Cupertino, California, that desings, develops, and sells consumers electronics, computer software, and online services.",
+    "_width_": {
+        "type": "string",
+        "value": "83.98%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblLast",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "7a6f3e16628d474385039af37d9c2791",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxLastSection",
+    "pf": "Form0957388f1955a40",
+    "tooltip": "",
+    "wType": "Label"
+}

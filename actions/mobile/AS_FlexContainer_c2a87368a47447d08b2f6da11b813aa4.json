@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_c2a87368a47447d08b2f6da11b813aa4": {
+        "id": "AS_FlexContainer_c2a87368a47447d08b2f6da11b813aa4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__050d562d46b4491294e122d99411640a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "moveStockBoxes(5,5);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

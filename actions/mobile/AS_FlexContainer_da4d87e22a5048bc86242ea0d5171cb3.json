@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_da4d87e22a5048bc86242ea0d5171cb3": {
+        "id": "AS_FlexContainer_da4d87e22a5048bc86242ea0d5171cb3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStockMarket",
+            "type": "forms",
+            "platform": "",
+            "KUID": "5e66dce687b0452391f194be95cc7e49"
+        },
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___002ed675213a408cb634355221adb93d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmInfoNews",
+            "formKUID": "b30ea8fe134f46afb8e36b0d98427cab",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

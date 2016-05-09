@@ -1,0 +1,50 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6eb4d1e04b74c7088099a90af7fba94",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "29dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sf998e6c49944a4799be1a180c5a3b1b",
+    "id": "btnTest1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "37f072e3abb547b7a6971d155a61de18",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_87bdbccaf1ee4508a81dc63e8e598ea8",
+    "parent": "tst",
+    "pf": "tst",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f42d91f7424052b344c0cba135d266",
+    "_src_": "icon_close.png",
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmStockMarket",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "CopyimgIconClose0865f01fedc7240",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "5dcec9e06557445d8aeebf89183c3cbd",
+    "name": "kony.ui.Image2",
+    "parent": "flxButtonTargetCloseThree",
+    "pf": "frmStockMarket",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

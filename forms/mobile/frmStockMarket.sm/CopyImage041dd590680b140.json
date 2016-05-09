@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "21.43%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f42d91f7424052b344c0cba135d266",
+    "_src_": "stock_down.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "4.69%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "42.86%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmStockMarket",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "CopyImage041dd590680b140",
+    "imagescalemode": 1,
+    "info": null,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "b9bb535bcbd448f2a5851f07edbbfbda",
+    "name": "kony.ui.Image2",
+    "parent": "flx01",
+    "pf": "frmStockMarket",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

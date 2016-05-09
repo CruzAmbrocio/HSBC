@@ -1,0 +1,16 @@
+{
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "000000ff",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 0,
+    "font_color": "808080ff",
+    "font_name": "Helvetica",
+    "font_size": 200,
+    "font_style": "normal",
+    "font_weight": "normal",
+    "isDefaultSkin": false,
+    "kuid": "s80011697a264f7abcafa4a9614b1429",
+    "wType": "RadioButtonGroup"
+}

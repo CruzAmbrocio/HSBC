@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12.06%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sadf5deb20af4f6ba626a61d0ed1e2ac",
+    "_text_": "TWTR:US",
+    "_top_": {
+        "type": "string",
+        "value": "21.14%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "containerweight": 100,
+    "contentalignment": 4,
+    "enabled": false,
+    "id": "lblNameItem01",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "@class": "com.kony.gen.viz.model.component.property.label.IPhoneLabelProperty",
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "24ad36c7a9f0400d961cd06b9e5a7657",
+    "name": "kony.ui.Label",
+    "parent": "flx01",
+    "pf": "frmStockMarket",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

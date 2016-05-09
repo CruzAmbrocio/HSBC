@@ -1,0 +1,13 @@
+{
+    "AS_Form_1accf99352c8466dab710522fcc7a49a": {
+        "id": "AS_Form_1accf99352c8466dab710522fcc7a49a",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "ADD_SNIPPET__d58762a8129743eab2f057c1aad9c27b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "tst.flxContainerSegment.sgmSegment.onSwipe = onSwipe_seg;\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "AS_FlexScrollContainer_57405ae36db942399c4c1cf7414b3a56": {
+        "id": "AS_FlexScrollContainer_57405ae36db942399c4c1cf7414b3a56",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET_onScrolling_82d29e2d3e5f499cbf67ecd7d730a58a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onSwipe_segData();",
+            "callbackType": null
+        }]
+    }
+}

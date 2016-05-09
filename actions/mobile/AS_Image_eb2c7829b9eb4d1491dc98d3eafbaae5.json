@@ -1,0 +1,27 @@
+{
+    "AS_Image_eb2c7829b9eb4d1491dc98d3eafbaae5": {
+        "id": "AS_Image_eb2c7829b9eb4d1491dc98d3eafbaae5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___812b65d972a4437f9ec37695957c4ca3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmStockMarket",
+            "formKUID": "5e66dce687b0452391f194be95cc7e49",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

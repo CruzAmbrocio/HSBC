@@ -1,0 +1,13 @@
+{
+    "AS_Form_fed1433d60384251919247a1ac01df2f": {
+        "id": "AS_Form_fed1433d60384251919247a1ac01df2f",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "ADD_SNIPPET__a3e1dddd334e4a9197feed81a3be4c2a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "setGesturestoStocks();\niterationItems();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

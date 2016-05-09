@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "113.40%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f42d91f7424052b344c0cba135d266",
+    "_src_": "graph.png",
+    "_width_": {
+        "type": "string",
+        "value": "158.33%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "48%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "51.55%"
+    },
+    "channel": "mobile",
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmStockMarket",
+        "ispercent": true,
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "enabled": false,
+    "id": "CopyimgGrap0f6edb0bac5e244",
+    "imagescalemode": 1,
+    "info": null,
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "7c3c3d22085b410c9bc4d25669b16abe",
+    "name": "kony.ui.Image2",
+    "parent": "CopyflxContainerGrap09774fc1f841341",
+    "pf": "frmStockMarket",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

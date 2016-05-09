@@ -1,0 +1,23 @@
+{
+    "AS_Segment_242701549c0341148ed4f2d2b613f89e": {
+        "id": "AS_Segment_242701549c0341148ed4f2d2b613f89e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "seguiWidget"
+        }, {
+            "datatype": "number",
+            "name": "sectionIndex"
+        }, {
+            "datatype": "number",
+            "name": "rowIndex"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__970c1df889884a7e99efb418991ae084",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onSwipe_seg();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

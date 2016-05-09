@@ -1,0 +1,13 @@
+{
+    "AS_Form_59398054789d401285079b73daa9b51c": {
+        "id": "AS_Form_59398054789d401285079b73daa9b51c",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "ADD_SNIPPET__45cf3083a46c47549fcb08f50676e47d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmInfoNews.flxPrincipalInfoNews.flxContainerSegmentData.sgmSegment.onSwipe = onSwipe_seg;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

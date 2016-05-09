@@ -1,0 +1,23 @@
+{
+    "AS_FlexScrollContainer_96e93058e7084eec860ecd10b216f6ab": {
+        "id": "AS_FlexScrollContainer_96e93058e7084eec860ecd10b216f6ab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__ecdba58153184b34b3cae6a9e9ec3eae",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "onMasterScroll()",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

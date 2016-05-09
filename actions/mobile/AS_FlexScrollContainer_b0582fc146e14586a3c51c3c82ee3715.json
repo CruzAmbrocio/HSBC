@@ -1,0 +1,17 @@
+{
+    "AS_FlexScrollContainer_b0582fc146e14586a3c51c3c82ee3715": {
+        "id": "AS_FlexScrollContainer_b0582fc146e14586a3c51c3c82ee3715",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "ADD_SNIPPET__090084fd3241425fad1cbcb9e0b3ce53",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "force();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

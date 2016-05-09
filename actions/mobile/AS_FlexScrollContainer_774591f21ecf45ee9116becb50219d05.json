@@ -1,0 +1,17 @@
+{
+    "AS_FlexScrollContainer_774591f21ecf45ee9116becb50219d05": {
+        "id": "AS_FlexScrollContainer_774591f21ecf45ee9116becb50219d05",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "actions": []
+    }
+}
